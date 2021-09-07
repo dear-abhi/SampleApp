@@ -1,0 +1,14 @@
+/Users/abhijithr/Projects/Xamarin/SampleApp/SampleApp/bin/Debug/netstandard2.0/SampleApp.deps.json
+/Users/abhijithr/Projects/Xamarin/SampleApp/SampleApp/bin/Debug/netstandard2.0/SampleApp.dll
+/Users/abhijithr/Projects/Xamarin/SampleApp/SampleApp/bin/Debug/netstandard2.0/ref/SampleApp.dll
+/Users/abhijithr/Projects/Xamarin/SampleApp/SampleApp/bin/Debug/netstandard2.0/SampleApp.pdb
+/Users/abhijithr/Projects/Xamarin/SampleApp/SampleApp/obj/Debug/netstandard2.0/SampleApp.csproj.AssemblyReference.cache
+/Users/abhijithr/Projects/Xamarin/SampleApp/SampleApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/abhijithr/Projects/Xamarin/SampleApp/SampleApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/abhijithr/Projects/Xamarin/SampleApp/SampleApp/obj/Debug/netstandard2.0/SampleApp.AssemblyInfoInputs.cache
+/Users/abhijithr/Projects/Xamarin/SampleApp/SampleApp/obj/Debug/netstandard2.0/SampleApp.AssemblyInfo.cs
+/Users/abhijithr/Projects/Xamarin/SampleApp/SampleApp/obj/Debug/netstandard2.0/SampleApp.csproj.CoreCompileInputs.cache
+/Users/abhijithr/Projects/Xamarin/SampleApp/SampleApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/abhijithr/Projects/Xamarin/SampleApp/SampleApp/obj/Debug/netstandard2.0/SampleApp.dll
+/Users/abhijithr/Projects/Xamarin/SampleApp/SampleApp/obj/Debug/netstandard2.0/ref/SampleApp.dll
+/Users/abhijithr/Projects/Xamarin/SampleApp/SampleApp/obj/Debug/netstandard2.0/SampleApp.pdb

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{76CCE504-EA2E-42D4-9323-136E58B831C8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleApp/MainPage.xaml">
+    <Files>
+      <File FileName="SampleApp/CustomControl/CustomEntry.cs" Line="13" Column="1" />
+      <File FileName="SampleApp.Android/CustomEntryRenderer.cs" Line="28" Column="1" />
+      <File FileName="SampleApp/MainPage.xaml" Line="37" Column="151" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SampleApp" expanded="True">
+            <Node name="SampleApp" expanded="True">
+              <Node name="CustomControl" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="SampleApp.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SampleApp.Android PreferredExecutionTarget="Android.Pixel_2_Pie_9.0_-_API_28" />
+  <MonoDevelop.Ide.ItemProperties.SampleApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

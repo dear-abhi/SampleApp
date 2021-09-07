@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aJMxN+PpXiZJnfmZXLoQ877egN5b/dv4rzOqlUPAYmZBNPP+hcqbnKIZ2cKwbYluM7W7Q5Z6KYz9oAnJJ0HHxQ==",
+  "success": true,
+  "projectFilePath": "/Users/abhijithr/Projects/Xamarin/SampleApp/SampleApp.iOS/SampleApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/abhijithr/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/abhijithr/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/abhijithr/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
